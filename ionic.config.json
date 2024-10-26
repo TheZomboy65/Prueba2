@@ -1,0 +1,7 @@
+{
+  "name": "Prueba_Ronald_Montalvo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
